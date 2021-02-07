@@ -7,4 +7,4 @@
     * ``` php artisan key:generate ```
     * ``` php artisan jwt:secret ```
 
-* configure .env file with proper values
+* configure .env file with proper values.
